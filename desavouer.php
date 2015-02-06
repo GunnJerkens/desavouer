@@ -74,7 +74,7 @@ class Desavouer {
   private function checkRequirements()
   {
     if(!file_exists(__DIR__.'/backlinks.txt')) {
-      exit('Copy backlinks.cfg.sample to backlinks.cfg and enter all your URLs to process.');
+      exit('Copy backlinks.txt.sample to backlinks.txt and enter all your URLs to process.');
     }
   }
 
