@@ -49,6 +49,8 @@ Time: 0.068725109100342 seconds
 /\/\/\/\/\/\/\/\/
 ```
 
+Google's response to upload of output.txt:  
+
 ![Google Upload Screenshot](https://raw.githubusercontent.com/GunnJerkens/desavouer/master/disavow-screenshot.png)
 
 
