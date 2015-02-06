@@ -49,6 +49,9 @@ Time: 0.068725109100342 seconds
 /\/\/\/\/\/\/\/\/
 ```
 
+![Google Upload Screenshot](https://raw.githubusercontent.com/GunnJerkens/desavouer/master/disavow-screenshot.png)
+
+
 ## license
 
 MIT
