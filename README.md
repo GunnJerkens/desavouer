@@ -26,8 +26,8 @@ http://example1.com/this/path/right/here
 http://example1.com/this/path/right/where
 http://example1.com/this/path/right/there
 http://example2.com/this/path/right/here
-http://example2.com/this/path/right/here
-http://example2.com/this/path/right/here
+http://example2.com/this/path/right/where
+http://example2.com/this/path/right/there
 ```
 
 ### ouput
