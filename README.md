@@ -30,7 +30,7 @@ http://example2.com/this/path/right/where
 http://example2.com/this/path/right/there
 ```
 
-### ouput
+### output
 
 ```
 domain:example1.com
